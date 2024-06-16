@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.exe
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.deps.json
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.runtimeconfig.json
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.dll
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\bin\Debug\net8.0\FruitOrVegetable.pdb
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.dll
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\refint\FruitOrVegetable.dll
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.pdb
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\FruitOrVegetable.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\FruitOrVegetable\FruitOrVegetable\obj\Debug\net8.0\ref\FruitOrVegetable.dll
